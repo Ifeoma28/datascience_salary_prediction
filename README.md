@@ -12,7 +12,7 @@ North America and Europe.
 
 **The core question:**
 > "What drives the salary gap between Data Scientists 
-> across continents — and can we predict it?"
+> across continents and can we predict it?"
 
 ---
 
@@ -62,11 +62,11 @@ North America and Europe.
 
 ## 📈 Key Findings
 
-- **North America dominates** — highest mean and median salary by a significant margin
-- **Geo-arbitrage is real** — African and Asian data scientists working for foreign companies earn 50-150% more than local equivalents
-- **Senior Asian data scientists do NOT out-earn Entry-level North American counterparts** — the geographic premium is that powerful
-- **ANOVA confirmed** — experience level, region and company size ALL significantly affect salary (p < 0.05)
-- **USD payout raises the baseline** — even in lower cost-of-living regions, USD-denominated salaries are higher
+- **North America dominates** highest mean and median salary by a significant margin
+- **Geo-arbitrage is real** African and Asian data scientists working for foreign companies earn 50-150% more than local equivalents
+- **Senior Asian data scientists do NOT out-earn Entry-level North American counterparts** the geographic premium is that powerful
+- **ANOVA confirmed** experience level, region and company size ALL significantly affect salary (p < 0.05)
+- **USD payout raises the baseline** even in lower cost-of-living regions, USD-denominated salaries are higher
 
 ---
 
@@ -97,7 +97,7 @@ Salary prediction is inherently complex. The 83% unexplained variance reflects:
 - Years within each experience tier
 - Industry sector variation
 
-Despite this, regional salary rankings are consistent with EDA findings — making the model useful for directional trend analysis.
+Despite this, regional salary rankings are consistent with EDA findings  making the model useful for directional trend analysis.
 
 ---
 
